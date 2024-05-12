@@ -27,7 +27,6 @@ The tables that were used in the analysis were:
 * productlines
 * orders
 * orderdetails
-* customers
 
 Before getting into the analysis I had to look into some of the column names and get more clarity on what they meant:
 * warehouses-warehousePctCap: Assumed to mean "warehouse percentage capacity" and means how much space has been used up in the warehouse
